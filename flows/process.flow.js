@@ -40,6 +40,18 @@ const process = addKeyword('proceso')
         await flowDynamic(`Gracias por tu correo ${ myState.name } 😁`)
     }
 )
+.addAnswer('¿Podrías indicarme la region en la que vives', {capture:true}, async (ctx, { flowDynamic, state }) => {
+    await state.update({ region: ctx.body })
+    const myState = state.getMyState()
+
+    await flowDynamic(`Gracias ${ myState.name } ya tengo tu region`)
+})
+.addAnswer('Ahora, indicame la ciudad en la que vives, por favor 😁', {capture:true}, async (ctx, { flowDynamic, state }) => {
+    await state.update({ city: ctx.body })
+    const myState = state.getMyState()
+
+    await flowDynamic(`Gracias por indicarme tu ciudad ${ myState.name }`)
+})
 .addAnswer(`a continuación puedes adjuntar tu CV en los siguientes formatos. (PDF, DOC)`, 
     {
         capture:true
@@ -48,7 +60,7 @@ const process = addKeyword('proceso')
         await state.update({ cv: ctx.body })
         const myState = state.getMyState()
 
-        await flowDynamic(`Felicidades si llegaste a este paso ${myState.name} tus datos son nombre: ${ myState.name } documento: ${ myState.document } whatsapp: ${ myState.cel } correo: ${ myState.email }`)
+        await flowDynamic(`Felicidades si llegaste a este paso ${myState.name} tus datos son:\n nombre: ${ myState.name } \n documento: ${ myState.document } \n whatsapp: ${ myState.cel } \n correo: ${ myState.email } \n region: ${ myState.region } \n ciudad: ${ myState.city }`)
     }
 )
 .addAnswer('Ya tengo todos tus datos para el proceso de selección, muchas gracias👌')
@@ -60,7 +72,7 @@ const process = addKeyword('proceso')
         if (ctx.body.toUpperCase() !== 'FEEDBACK' && ctx.body.toUpperCase()  !== 'VACANTES') {
             return fallBack('Debes escribir *FEEDBACK* o *VACANTES*')
         }
-    }//,[flowFeedback, flowVacants]
+    },[feedFlow, vacantsFlow]
 )
 
 
