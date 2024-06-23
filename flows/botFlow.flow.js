@@ -34,5 +34,6 @@ const botFlow = addKeyword('bot')
 )
 
 module.exports = {
-    botFlow
+    botFlow,
+    exitFlow
 }

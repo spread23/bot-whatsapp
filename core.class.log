@@ -2,45 +2,10 @@
   key: {
     remoteJid: '573105045350@s.whatsapp.net',
     fromMe: false,
-    id: '34D144865721957E0D34702DCF3CFA37',
+    id: '9F5E23B8D12EE971F231CDD7AB603289',
     participant: undefined
   },
-  messageTimestamp: 1719076342,
-  pushName: 'Esteban',
-  broadcast: false,
-  messageStubType: 2,
-  messageStubParameters: [ 'Message absent from node' ],
-  body: undefined,
-  from: '573105045350'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '573105045350@s.whatsapp.net',
-    fromMe: false,
-    id: '34D144865721957E0D34702DCF3CFA37',
-    participant: undefined
-  },
-  messageTimestamp: 1719076343,
-  pushName: 'Esteban',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hola',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola',
-  from: '573105045350'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '573105045350@s.whatsapp.net',
-    fromMe: false,
-    id: '34D144865721957E0D34702DCF3CFA37',
-    participant: undefined
-  },
-  messageTimestamp: 1719076343,
+  messageTimestamp: 1719172023,
   pushName: 'Esteban',
   broadcast: false,
   message: Message {
@@ -54,8 +19,8 @@
   from: '573105045350'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_5a9a8666-b52e-4539-b036-24e8bd2fda65',
-  keyword: 'key_0a4eb02b-c439-4e1e-a51b-0f29427fe5c0',
+  ref: 'ans_81454377-c27a-4f7b-bcc4-dafad5d5f494',
+  keyword: 'key_0364cc18-457d-4f51-b092-cd66f401b7b1',
   answer: 'Hola, y bienvenido/a al proceso de selección de OFRECETUTALENTO 🙌, Estoy aquí para ayudarte a postular a una vacante y guiarte a través del proceso de manera sencilla 👌',
   options: {
     media: null,
@@ -69,29 +34,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: '6aa5c2e6b019b444942c2e72599de51f'
+  refSerialize: '159cb22e96ae8c3df2f2d5fa68808aba'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_5a9a8666-b52e-4539-b036-24e8bd2fda65',
-  keyword: 'key_0a4eb02b-c439-4e1e-a51b-0f29427fe5c0',
-  answer: 'Hola, y bienvenido/a al proceso de selección de OFRECETUTALENTO 🙌, Estoy aquí para ayudarte a postular a una vacante y guiarte a través del proceso de manera sencilla 👌',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '6aa5c2e6b019b444942c2e72599de51f'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_31b2c9a0-ce4e-4ec2-be8d-6df31329d9f4',
-  keyword: 'ans_5a9a8666-b52e-4539-b036-24e8bd2fda65',
+  ref: 'ans_1fae47a6-6264-430d-9368-7975d6c4b104',
+  keyword: 'ans_81454377-c27a-4f7b-bcc4-dafad5d5f494',
   answer: '*ACUERDO DE POLITICA DE PRIVACIDAD*',
   options: {
     media: null,
@@ -105,29 +52,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'b30c9024f0782494be6d38ecec5afab4'
+  refSerialize: 'fbf5ddc6943a89a78ef936caa084c281'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_31b2c9a0-ce4e-4ec2-be8d-6df31329d9f4',
-  keyword: 'ans_5a9a8666-b52e-4539-b036-24e8bd2fda65',
-  answer: '*ACUERDO DE POLITICA DE PRIVACIDAD*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'b30c9024f0782494be6d38ecec5afab4'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f50195b6-0f77-47ef-8eba-7c52b5741491',
-  keyword: 'ans_31b2c9a0-ce4e-4ec2-be8d-6df31329d9f4',
+  ref: 'ans_5cbb85f5-7992-46bf-8002-bd2e859d5100',
+  keyword: 'ans_1fae47a6-6264-430d-9368-7975d6c4b104',
   answer: 'Antes de continuar, es importante que leas y aceptes nuestra política de privacidad, puedes encontrarla en https://bit.ly/politicadeprivacidad-gu',
   options: {
     media: null,
@@ -141,29 +70,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'bc0c1eccfdef9aac0b58d9545a6d0ca0'
+  refSerialize: 'fd3453a7bd2e37bfef9dc40039f465a8'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f50195b6-0f77-47ef-8eba-7c52b5741491',
-  keyword: 'ans_31b2c9a0-ce4e-4ec2-be8d-6df31329d9f4',
-  answer: 'Antes de continuar, es importante que leas y aceptes nuestra política de privacidad, puedes encontrarla en https://bit.ly/politicadeprivacidad-gu',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'bc0c1eccfdef9aac0b58d9545a6d0ca0'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fa11ba2d-e3be-40ca-a6a3-1bb9182c3563',
-  keyword: 'ans_f50195b6-0f77-47ef-8eba-7c52b5741491',
+  ref: 'ans_7391e273-2df8-419d-a5ad-8b99156b19e1',
+  keyword: 'ans_5cbb85f5-7992-46bf-8002-bd2e859d5100',
   answer: '¿Aceptas nuestra politica de privacidad?\n' +
     ' Escribe *SI ACEPTO* o *NO ACEPTO*',
   options: {
@@ -178,166 +89,16 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '6daf6bf3bcbf94bfdf75807a5ebbe64b'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fa11ba2d-e3be-40ca-a6a3-1bb9182c3563',
-  keyword: 'ans_f50195b6-0f77-47ef-8eba-7c52b5741491',
-  answer: '¿Aceptas nuestra politica de privacidad?\n' +
-    ' Escribe *SI ACEPTO* o *NO ACEPTO*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: true,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [ [Object], [Object], [Object], [Object] ],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '6daf6bf3bcbf94bfdf75807a5ebbe64b'
+  refSerialize: '5ad36a10d554da6e3c97bbdc32e0d754'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '573105045350@s.whatsapp.net',
     fromMe: false,
-    id: '588BD5F6F64EB97EF77DFE071D41B9B7',
+    id: 'BDD094F2A23360A0AE4197C7DF835905',
     participant: undefined
   },
-  messageTimestamp: 1719076372,
-  pushName: 'Esteban',
-  broadcast: false,
-  message: Message {
-    conversation: 'No acepto',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'No acepto',
-  from: '573105045350'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_501427af-3d8d-4167-a6c1-1efc366b3fd1',
-  keyword: 'key_6cdf521f-b308-4846-9fcb-c91f70581023',
-  answer: 'Ok, Escribeme cuando quieras iniciar tu proceso de selección 😊, aca te estaré esperando',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'f0d36bbdd66c4c1837dcabf7960a14b8'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '573105045350@s.whatsapp.net',
-    fromMe: false,
-    id: '8FA0572112521566A6A4BE258CA4BBFB',
-    participant: undefined
-  },
-  messageTimestamp: 1719076381,
-  pushName: 'Esteban',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hola',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola',
-  from: '573105045350'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_5a9a8666-b52e-4539-b036-24e8bd2fda65',
-  keyword: 'key_0a4eb02b-c439-4e1e-a51b-0f29427fe5c0',
-  answer: 'Hola, y bienvenido/a al proceso de selección de OFRECETUTALENTO 🙌, Estoy aquí para ayudarte a postular a una vacante y guiarte a través del proceso de manera sencilla 👌',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '6aa5c2e6b019b444942c2e72599de51f'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_31b2c9a0-ce4e-4ec2-be8d-6df31329d9f4',
-  keyword: 'ans_5a9a8666-b52e-4539-b036-24e8bd2fda65',
-  answer: '*ACUERDO DE POLITICA DE PRIVACIDAD*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'b30c9024f0782494be6d38ecec5afab4'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f50195b6-0f77-47ef-8eba-7c52b5741491',
-  keyword: 'ans_31b2c9a0-ce4e-4ec2-be8d-6df31329d9f4',
-  answer: 'Antes de continuar, es importante que leas y aceptes nuestra política de privacidad, puedes encontrarla en https://bit.ly/politicadeprivacidad-gu',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'bc0c1eccfdef9aac0b58d9545a6d0ca0'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fa11ba2d-e3be-40ca-a6a3-1bb9182c3563',
-  keyword: 'ans_f50195b6-0f77-47ef-8eba-7c52b5741491',
-  answer: '¿Aceptas nuestra politica de privacidad?\n' +
-    ' Escribe *SI ACEPTO* o *NO ACEPTO*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: true,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [ [Object], [Object], [Object], [Object] ],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '6daf6bf3bcbf94bfdf75807a5ebbe64b'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '573105045350@s.whatsapp.net',
-    fromMe: false,
-    id: '8A28461A56B5EE9CF1F6D8AFB94C9E74',
-    participant: undefined
-  },
-  messageTimestamp: 1719076387,
+  messageTimestamp: 1719172027,
   pushName: 'Esteban',
   broadcast: false,
   message: Message {
@@ -351,8 +112,8 @@
   from: '573105045350'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_214482cd-b813-43c8-9ee6-c9a12497fb58',
-  keyword: 'key_b1f9afdf-8492-4f20-8aa2-3a382034cdf6',
+  ref: 'ans_198d50bf-3fe8-4e2d-a52a-9049322a7a8b',
+  keyword: 'key_3c161930-1fc7-4856-a91f-f42bdb2db40e',
   answer: 'Escribe *PROCESO* si quieres continuar en el proceso de selección, o escribe *BOT* si quieres recibir consejos de como puedes mejorar tu CV y mejorar tus habilidades blandas para aumentar tus posibilidades de ser seleccionado. 😊',
   options: {
     media: null,
@@ -374,249 +135,16 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '8bb838f16b69492b584faccb60768a41'
+  refSerialize: 'cd0cdda755361fc240d4dcd4360f3a35'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '573105045350@s.whatsapp.net',
     fromMe: false,
-    id: '982BF0858568B08475E26D1A4B47539E',
+    id: '3F8E69FB3BE09F30B242A0856EF08596',
     participant: undefined
   },
-  messageTimestamp: 1719076391,
-  pushName: 'Esteban',
-  broadcast: false,
-  message: Message {
-    conversation: 'Proceso',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Proceso',
-  from: '573105045350'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_29b7f361-3952-428d-83bc-63151643866d',
-  keyword: 'key_8bf186cb-4a81-4a72-82bb-d4f58861b10a',
-  answer: 'Gracias por continuar en el proceso 😁, podemos proceder con la recopilación de tu información 👍',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'a81f639dd8b94213bcc93982d4bf9278'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_d53747a8-0d11-492f-833c-cd33fc0b0800',
-  keyword: 'ans_29b7f361-3952-428d-83bc-63151643866d',
-  answer: 'Para comenzar, necesito algunos datos personales, para identificarte en nuestro sistema, si en algun momento quieres cancelar el proceso, escribe *NO* 🙌',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '53e5f13d6f2beed343c031326f834cb5'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_c25c4633-8fc4-487c-865b-a092bdef79dc',
-  keyword: 'ans_d53747a8-0d11-492f-833c-cd33fc0b0800',
-  answer: '¿Podrías indicarme tu nombre completo?',
-  options: {
-    media: null,
-    buttons: [],
-    capture: true,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '5f9fc665144717bd04bbc2fef2c7c0e9'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '573105045350@s.whatsapp.net',
-    fromMe: false,
-    id: '16F40DDADACA74E25D2DA74BDFDE828C',
-    participant: undefined
-  },
-  messageTimestamp: 1719076397,
-  pushName: 'Esteban',
-  broadcast: false,
-  message: Message {
-    conversation: 'No',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'No',
-  from: '573105045350'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '573105045350@s.whatsapp.net',
-    fromMe: false,
-    id: '48A8C39B53D6F7559439D91FECB5FC8B',
-    participant: undefined
-  },
-  messageTimestamp: 1719076401,
-  pushName: 'Esteban',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hola',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola',
-  from: '573105045350'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_5a9a8666-b52e-4539-b036-24e8bd2fda65',
-  keyword: 'key_0a4eb02b-c439-4e1e-a51b-0f29427fe5c0',
-  answer: 'Hola, y bienvenido/a al proceso de selección de OFRECETUTALENTO 🙌, Estoy aquí para ayudarte a postular a una vacante y guiarte a través del proceso de manera sencilla 👌',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: '6aa5c2e6b019b444942c2e72599de51f'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_31b2c9a0-ce4e-4ec2-be8d-6df31329d9f4',
-  keyword: 'ans_5a9a8666-b52e-4539-b036-24e8bd2fda65',
-  answer: '*ACUERDO DE POLITICA DE PRIVACIDAD*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'b30c9024f0782494be6d38ecec5afab4'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_f50195b6-0f77-47ef-8eba-7c52b5741491',
-  keyword: 'ans_31b2c9a0-ce4e-4ec2-be8d-6df31329d9f4',
-  answer: 'Antes de continuar, es importante que leas y aceptes nuestra política de privacidad, puedes encontrarla en https://bit.ly/politicadeprivacidad-gu',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'bc0c1eccfdef9aac0b58d9545a6d0ca0'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_fa11ba2d-e3be-40ca-a6a3-1bb9182c3563',
-  keyword: 'ans_f50195b6-0f77-47ef-8eba-7c52b5741491',
-  answer: '¿Aceptas nuestra politica de privacidad?\n' +
-    ' Escribe *SI ACEPTO* o *NO ACEPTO*',
-  options: {
-    media: null,
-    buttons: [],
-    capture: true,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [ [Object], [Object], [Object], [Object] ],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '6daf6bf3bcbf94bfdf75807a5ebbe64b'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '573105045350@s.whatsapp.net',
-    fromMe: false,
-    id: 'BC38C58B6BF2FEC447F3C94267723505',
-    participant: undefined
-  },
-  messageTimestamp: 1719076408,
-  pushName: 'Esteban',
-  broadcast: false,
-  message: Message {
-    conversation: 'Si acepto',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Si acepto',
-  from: '573105045350'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_214482cd-b813-43c8-9ee6-c9a12497fb58',
-  keyword: 'key_b1f9afdf-8492-4f20-8aa2-3a382034cdf6',
-  answer: 'Escribe *PROCESO* si quieres continuar en el proceso de selección, o escribe *BOT* si quieres recibir consejos de como puedes mejorar tu CV y mejorar tus habilidades blandas para aumentar tus posibilidades de ser seleccionado. 😊',
-  options: {
-    media: null,
-    buttons: [],
-    capture: true,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [
-      [Object], [Object],
-      [Object], [Object],
-      [Object], [Object],
-      [Object], [Object],
-      [Object], [Object],
-      [Object], [Object],
-      [Object], [Object]
-    ],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '8bb838f16b69492b584faccb60768a41'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '573105045350@s.whatsapp.net',
-    fromMe: false,
-    id: '2CEFDE51CC840484647454C7D7B81473',
-    participant: undefined
-  },
-  messageTimestamp: 1719076411,
+  messageTimestamp: 1719172031,
   pushName: 'Esteban',
   broadcast: false,
   message: Message {
@@ -630,8 +158,8 @@
   from: '573105045350'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_828c090e-bd4a-47af-8851-22525c51273f',
-  keyword: 'key_996ada8c-4dee-42c3-b2ca-282598ca6398',
+  ref: 'ans_3e308531-5247-4907-9c4f-bfca1180d730',
+  keyword: 'key_35b8b5d0-b056-48a4-945e-3a9bfdb3a896',
   answer: 'Hola, Estoy aquí para ayudarte a mejorar tu CV y tus habilidades blandas 😁, Si en algún momento quieres salir de esta conversación y volver al menu principal escribe *QUIERO SALIR* 👌,Preguntame lo que quieras.',
   options: {
     media: null,
@@ -645,76 +173,16 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '520ea6c7f5d3f2b57af808028c8fe207'
+  refSerialize: '0e0b36af6ebab89ab41beffe342631fa'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '573105045350@s.whatsapp.net',
     fromMe: false,
-    id: 'E10F951F2467CE09F43E7E439E601BB0',
+    id: '835634C00DF9BC2B0796722EA5562943',
     participant: undefined
   },
-  messageTimestamp: 1719076418,
-  pushName: 'Esteban',
-  broadcast: false,
-  message: Message {
-    conversation: 'Quien eres?',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Quien eres?',
-  from: '573105045350'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '573105045350@s.whatsapp.net',
-    fromMe: false,
-    id: '2DA8CFEF3DF8BD721DDF4F267F728A3C',
-    participant: undefined
-  },
-  messageTimestamp: 1719076466,
-  pushName: 'Esteban',
-  broadcast: false,
-  message: Message {
-    conversation: 'Como hago para encontrar empleo',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Como hago para encontrar empleo',
-  from: '573105045350'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '573105045350@s.whatsapp.net',
-    fromMe: false,
-    id: '12EF2D8CFF0A3A4F6A40B93060325E08',
-    participant: undefined
-  },
-  messageTimestamp: 1719076485,
-  pushName: 'Esteban',
-  broadcast: false,
-  message: Message {
-    conversation: 'Muchas gracias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Muchas gracias',
-  from: '573105045350'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '573105045350@s.whatsapp.net',
-    fromMe: false,
-    id: '606813C402A4EF417D37881E0D96086B',
-    participant: undefined
-  },
-  messageTimestamp: 1719076497,
+  messageTimestamp: 1719172034,
   pushName: 'Esteban',
   broadcast: false,
   message: Message {
@@ -728,8 +196,8 @@
   from: '573105045350'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_eb59cd93-6b52-42a4-b36e-7478490f8d47',
-  keyword: 'key_d5ccb885-cf4b-4327-a6fe-83b5cf88745e',
+  ref: 'ans_e38b737e-0a23-4675-900f-26d271f07b88',
+  keyword: 'key_ccc65b5e-4740-4aba-b0d5-a885526075ad',
   answer: 'Ok, escribeme cuando quieras iniciar tu proceso de selección 😊 Vuelve pronto',
   options: {
     media: null,
@@ -743,5 +211,5 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'f061b779d55c5aabfdd01f082e769bd6'
+  refSerialize: 'bf30bee22767f48e185a69e40346a9ad'
 }
