@@ -9,7 +9,7 @@ const { handlerAI } = require('../whisper')
 const chatGptInstance = new ChatGPTClass()
 
 const botFlow = addKeyword('bot')
-    .addAnswer('Hola, Estoy aquí para ayudarte a mejorar tu CV y tus habilidades blandas 😁, Si en algún momento quieres salir de esta conversación y volver al menu principal escribe *QUIERO SALIR* 👌,Preguntame lo que quieras.',
+    .addAnswer('Hola, Estoy aquí para ayudarte a mejorar tu CV y tus habilidades blandas 😁, Si en algún momento quieres salir de esta conversación y volver al menu principal escribe *QUIERO SALIR* 👌,Preguntame lo que quieras. Recuerda que me puedas enviar notas de voz si lo deseas 👌',
         {
             capture: true
         },

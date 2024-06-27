@@ -1,0 +1,280 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573105045350@s.whatsapp.net',
+    fromMe: false,
+    id: '7E3CD8D00CD0E586A5DE731B3320CFD4',
+    participant: undefined
+  },
+  messageTimestamp: 1719458309,
+  pushName: 'Esteban',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573105045350'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_243e3ee6-443c-4db7-b484-d871c3d7b19e',
+  keyword: 'key_adce317e-fb75-4a0b-8294-0dcfcf07bd02',
+  answer: 'Hola, y bienvenido/a al proceso de selección de OFRECETUTALENTO 🙌, Estoy aquí para ayudarte a postular a una vacante y guiarte a través del proceso de manera sencilla 👌',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '17cb8bc17ca714e90e4e01518d7a28a9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3fb477ad-52ea-4c3d-ba29-f10fb2c2f6fb',
+  keyword: 'ans_243e3ee6-443c-4db7-b484-d871c3d7b19e',
+  answer: '*ACUERDO DE POLITICA DE PRIVACIDAD*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6b5c7386a0c9619c844888f333318ef8'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6e6a3e5a-dca4-428d-a9f5-b6f56fb04ea6',
+  keyword: 'ans_3fb477ad-52ea-4c3d-ba29-f10fb2c2f6fb',
+  answer: 'Antes de continuar, es importante que leas y aceptes nuestra política de privacidad, puedes encontrarla en https://bit.ly/politicadeprivacidad-gu',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c26515594b54e04d7aa7f8a6bbe671db'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6617b3c9-69e5-4de1-8bb8-843270470c7b',
+  keyword: 'ans_6e6a3e5a-dca4-428d-a9f5-b6f56fb04ea6',
+  answer: '¿Aceptas nuestra politica de privacidad?\n' +
+    ' Escribe *SI ACEPTO* o *NO ACEPTO*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '5a1060f6de455b3ce7b336383fa2c2ab'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573105045350@s.whatsapp.net',
+    fromMe: false,
+    id: 'A1EB16FE97F0E6B58113E45C3957E613',
+    participant: undefined
+  },
+  messageTimestamp: 1719458383,
+  pushName: 'Esteban',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si acepto',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si acepto',
+  from: '573105045350'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6bf10277-697f-4cdb-b8e4-c9bb983188d9',
+  keyword: 'key_490e2107-bc43-4737-975c-c7cd6bb81247',
+  answer: 'Escribe *PROCESO* si quieres continuar en el proceso de selección, o escribe *BOT* si quieres recibir consejos de como puedes mejorar tu CV y mejorar tus habilidades blandas para aumentar tus posibilidades de ser seleccionado. 😊',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '78392751b53f6690a25ed1f988e59d43'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573105045350@s.whatsapp.net',
+    fromMe: false,
+    id: '62E188F41CE3513E169D69E9B732F703',
+    participant: undefined
+  },
+  messageTimestamp: 1719458387,
+  pushName: 'Esteban',
+  broadcast: false,
+  message: Message {
+    conversation: 'Bot',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Bot',
+  from: '573105045350'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_021798f2-3b54-4814-abea-bec5f0a81f1f',
+  keyword: 'key_2d97c887-e1e7-412a-836c-2dd803ee2fb9',
+  answer: 'Hola, Estoy aquí para ayudarte a mejorar tu CV y tus habilidades blandas 😁, Si en algún momento quieres salir de esta conversación y volver al menu principal escribe *QUIERO SALIR* 👌,Preguntame lo que quieras.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e2ca3336cd8d8bac5c49ee2534d55316'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573105045350@s.whatsapp.net',
+    fromMe: false,
+    id: '75E1730E79A8CEC423987230720EA180',
+    participant: undefined
+  },
+  messageTimestamp: 1719458410,
+  pushName: 'Esteban',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/35206016_1524579648094265_1071573077942020068_n.enc?ccb=11-4&oh=01_Q5AaIAyF2T6vU5MTuLQ1o_C4cVborzsHZS6ftx0okknDHwH-&oe=66A45ADC&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 2,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/35206016_1524579648094265_1071573077942020068_n.enc?ccb=11-4&oh=01_Q5AaIAyF2T6vU5MTuLQ1o_C4cVborzsHZS6ftx0okknDHwH-&oe=66A45ADC&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__4e4d476d-431f-42bc-be2f-1abf56d08e74',
+  from: '573105045350'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573105045350@s.whatsapp.net',
+    fromMe: false,
+    id: '11946E44128B775C1E03A40D00783A00',
+    participant: undefined
+  },
+  messageTimestamp: 1719458440,
+  pushName: 'Esteban',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/18972897_968750488269398_4279557155690270983_n.enc?ccb=11-4&oh=01_Q5AaIPneXSxO-oECf5Klpt736IwilWTlZSW6hwgZLVwdsvB1&oe=66A4523D&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 1,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/18972897_968750488269398_4279557155690270983_n.enc?ccb=11-4&oh=01_Q5AaIPneXSxO-oECf5Klpt736IwilWTlZSW6hwgZLVwdsvB1&oe=66A4523D&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__5dca0ccc-7a81-4e62-bcc4-5dd47446ff05',
+  from: '573105045350'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573105045350@s.whatsapp.net',
+    fromMe: false,
+    id: '000E6B01B975201699B582068006F349',
+    participant: undefined
+  },
+  messageTimestamp: 1719458455,
+  pushName: 'Esteban',
+  broadcast: false,
+  message: Message {
+    conversation: 'Quiero salir',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Quiero salir',
+  from: '573105045350'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c84d54f8-8b64-46c1-9962-a4de1dd74adf',
+  keyword: 'key_60bf5533-e18c-4bf5-8f33-c0cd78015a22',
+  answer: 'Ok, escribeme cuando quieras iniciar tu proceso de selección 😊 Vuelve pronto',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8be887d79e71c39a500c4035c0cb51b6'
+}
