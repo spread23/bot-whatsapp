@@ -10,6 +10,7 @@
     },
     "keywords": [],
     "dependencies": {
+        "@adiwajshing/baileys": "^5.0.0",
         "@bot-whatsapp/bot": "^0.1.38",
         "@bot-whatsapp/cli": "^0.1.38",
         "@bot-whatsapp/database": "^0.1.38",
@@ -19,6 +20,8 @@
         "cache-manager": "5.2.4",
         "chatgpt": "^5.2.5",
         "dotenv": "^16.4.5",
+        "fs": "^0.0.1-security",
+        "openai": "^3.3.0",
         "wa-sticker-formatter": "4.4.4"
     },
     "devDependencies": {
